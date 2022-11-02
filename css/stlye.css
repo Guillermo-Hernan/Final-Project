@@ -60,12 +60,15 @@ footer{
 }
 .Aboutparagraph{
    display: inline-block;
-   margin-left: 200px;
+   margin-left: 300px;
    width: 500px;
-   color:fuchsia;
+   color:red;
    position: relative;
-   bottom: 100px;
+   bottom: 20px;
    font-size: 18px;
+}
+.Aboutparagraph:hover{
+   background-color: black;
 }
 iframe{
    display: inline-block;
