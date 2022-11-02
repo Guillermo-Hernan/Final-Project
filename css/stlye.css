@@ -1,0 +1,115 @@
+h1 {
+   font-family: 'Oswald', sans-serif;
+}
+nav{
+   height:100px;
+   width:100vw;
+   background-color:rgba(47, 104, 179, 0.147);
+   position:sticky;
+   top:0px
+}
+a:visited{
+   color: aqua;
+}
+body{
+   background-image: url(../img/Pex.jpeg) ;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+.Navbuttonlinks{
+   font-size: 35px;
+   text-decoration: none;
+   margin-left: 20px;
+   
+}
+.Navbuttonlinks:hover{
+   background-color: black;
+}
+.Logo{
+   width: 70px;
+}
+h1{
+   text-align: center;
+   color:darkblue;
+}
+h2{
+   text-align: center;
+}
+h3{
+   text-align: center;
+}
+h4{
+   text-align: center;
+}
+h5{
+   text-align: center;
+}
+h6{
+   text-align: center;
+}
+.FooterNavbuttons{
+   font-size: 35px;
+   text-decoration: none;
+   margin-left: 20px;
+   position: relative;
+   left: 1150px;
+}
+footer{
+   margin-top: 250px;
+   width: 100%;
+}
+.Aboutparagraph{
+   display: inline-block;
+   margin-left: 200px;
+   width: 500px;
+   color:fuchsia;
+   position: relative;
+   bottom: 100px;
+   font-size: 18px;
+}
+iframe{
+   display: inline-block;
+}
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+.Title{
+   color:blueviolet;
+   font-family: 'Oswald', sans-serif;
+}
+.Contactinfo{
+   display: inline-block;
+   margin-left: 100px;
+   width: 900px;
+   color:fuchsia;
+   font-size: 18px;
+}
